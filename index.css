@@ -1,29 +1,25 @@
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: lightpink;
+    background-color: lightgray;
     margin-left: 20px;
     margin-right: 20px;
-    border-left: 5px solid cyan;
+    
 }
 
 header{
     padding: 10px;
     background-color: aquamarine;
-    color: black;
-    border-left: 10px solid orange
+    border-left: 5px solid black;
 }
 
 h1{
-    color: goldenrod;
-    background-color: brown;
-    padding: 10px;
+    color: darkslategrey;
 }
 
 h2{
-    color: rgb(29, 125, 75);
+    color: slategray;
     background-color: rgb(220, 231, 142);
     padding: 10px;
-    border-left: 5px solid darkgoldenrod;
 }
 
 p{
